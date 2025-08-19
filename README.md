@@ -1,18 +1,5 @@
-<img src="https://i.imgur.com/qr2lOpy.png" alt="Ted Mayers Client Logo" width="320" height="120">
+<img src="https://iili.io/FplmGJS.png" alt="Ted Mayers Client Logo" width="320" height="120">
 <br>
-<table>
-  <tr>
-    <th><a href="#server-invite">Discord</a></th>
-    <td>
-      <a target="_blank" href="https://discord.gg/YourDiscordInvite">
-        <img src="https://dcbadge.limes.pink/api/server/YourDiscordInvite" alt="Discord Server Badge" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <th>Website</th>
-    <td><a target="_blank" href="https://www.tedmayersclient.com/">https://www.tedmayersclient.com/</a></td>
-  </tr>
 </table>
 
 # 🚨 Important Notice! 🚨  
