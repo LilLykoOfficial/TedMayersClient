@@ -40,7 +40,8 @@ We want to stress that we have **NEVER** used, and will **NEVER** use, platforms
 ### 📸 Screenshots  
 
 Check out how Ted Mayers Client looks in action:  
-![image](https://github.com/YourGitHubUsername/TedMayersClient/assets/YourAssetID/your-screenshot.png)
+https://freeimage.host/i/Fplpra2
+https://freeimage.host/i/FplykAP
 
 ---
 
