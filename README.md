@@ -40,8 +40,16 @@ We want to stress that we have **NEVER** used, and will **NEVER** use, platforms
 ### 📸 Screenshots  
 
 Check out how Ted Mayers Client looks in action:  
-https://freeimage.host/i/Fplpra2
-https://freeimage.host/i/FplykAP
+
+
+
+<img src="https://iili.io/Fplpra2.png" alt="Ted Mayers Client Screenshot" width="320" height="120">
+<br>
+<img src="https://iili.io/FplykAP.png" alt="Ted Mayers Client Screenshot" width="320" height="120">
+<br>
+</table>
+
+
 
 ---
 
